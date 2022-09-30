@@ -1,2 +1,1 @@
-# sarkahnsvault.com
-My Indie Author Website that is currently being reworked. 
+# My Indie Author Website that is currently being reworked and in development. 
